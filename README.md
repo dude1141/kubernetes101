@@ -1,2 +1,2 @@
 # kubernetes101
-kubernetes101_nijam
+kubernetes_natakaalu
