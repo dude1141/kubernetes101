@@ -1,2 +1,2 @@
 # kubernetes101
-kubernetes_natakaal
+kubernetes_naatak
